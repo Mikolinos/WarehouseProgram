@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Progs\\Work\\C#_learning\\OOP_shop\\Test\\Test.csproj": {}
+    "C:\\Progs\\Work\\C#_learning\\WarehouseProgram\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Progs\\Work\\C#_learning\\OOP_shop\\Test\\Test.csproj": {
+    "C:\\Progs\\Work\\C#_learning\\WarehouseProgram\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Progs\\Work\\C#_learning\\OOP_shop\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Progs\\Work\\C#_learning\\WarehouseProgram\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Progs\\Work\\C#_learning\\OOP_shop\\Test\\Test.csproj",
+        "projectPath": "C:\\Progs\\Work\\C#_learning\\WarehouseProgram\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
-        "outputPath": "C:\\Progs\\Work\\C#_learning\\OOP_shop\\Test\\obj\\",
+        "outputPath": "C:\\Progs\\Work\\C#_learning\\WarehouseProgram\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\X\\AppData\\Roaming\\NuGet\\NuGet.Config",
